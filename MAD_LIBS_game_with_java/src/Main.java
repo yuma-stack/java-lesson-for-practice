@@ -29,10 +29,14 @@ public class Main {
         //Create output
         System.out.println("\n Today I went to a " + adjective1 + " zoom");
         System.out.println("In an exhibit. I saw a " + none1 + ".");
-        System.out.println(none1 + "was" + adjective2 + "and" + verb1 + "!");
+        System.out.println(none1 + " was " + adjective2 + " and " + verb1 + "!");
         System.out.println("I was " + adjective3 + "! ");
 
         scanner.close();
 
+        //excited practice
+        // ខ្ញុំចង់បង្កើតប្រយោក មួយ ប្រើនូវ function ខាងលើ
+
+        //
     }
 }
